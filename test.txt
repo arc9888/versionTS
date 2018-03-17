@@ -5,3 +5,4 @@ forth line 1 2 3 4
 fifth line added
 sixth line added
 
+Creating a new branch is quick.
