@@ -8,5 +8,5 @@ sixth line added
 Creating a new branch is quick.
 Creating a new branch is quick and simple.
 
-dev version
+NEW VERSION
 
